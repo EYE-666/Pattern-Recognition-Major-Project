@@ -1,0 +1,29 @@
+Failed to find real location of E:\anaconda\python.exe
+USPS: selecting hyperparameters with 5-fold training-only CV
+USPS main: [{'dataset': 'USPS', 'method': 'KNN', 'k': 1, 'alpha': 0.0, 'n_train': 7291, 'n_test': 2007, 'accuracy': 0.9436970602889886, 'error': 0.05630293971101141, 'macro_f1': 0.9391526624647341, 'fit_seconds': 1.200009137392044e-06, 'predict_seconds': 1.8959513999870978}, {'dataset': 'USPS', 'method': 'Fisher', 'k': 0, 'alpha': 0.01, 'n_train': 7291, 'n_test': 2007, 'accuracy': 0.8858993522670653, 'error': 0.11410064773293471, 'macro_f1': 0.8763404290900312, 'fit_seconds': 0.05610570003045723, 'predict_seconds': 0.0034232999896630645}, {'dataset': 'USPS', 'method': 'Fisher+KNN', 'k': 3, 'alpha': 0.1, 'n_train': 7291, 'n_test': 2007, 'accuracy': 0.9043348281016442, 'error': 0.09566517189835577, 'macro_f1': 0.8951183795460302, 'fit_seconds': 0.054019899980630726, 'predict_seconds': 0.7203184000100009}]
+USPS learning curve: repeat 1/5
+USPS learning curve: repeat 2/5
+USPS learning curve: repeat 3/5
+USPS learning curve: repeat 4/5
+USPS learning curve: repeat 5/5
+Sonar nested evaluation: repeat 1/20
+Sonar nested evaluation: repeat 2/20
+Sonar nested evaluation: repeat 3/20
+Sonar nested evaluation: repeat 4/20
+Sonar nested evaluation: repeat 5/20
+Sonar nested evaluation: repeat 6/20
+Sonar nested evaluation: repeat 7/20
+Sonar nested evaluation: repeat 8/20
+Sonar nested evaluation: repeat 9/20
+Sonar nested evaluation: repeat 10/20
+Sonar nested evaluation: repeat 11/20
+Sonar nested evaluation: repeat 12/20
+Sonar nested evaluation: repeat 13/20
+Sonar nested evaluation: repeat 14/20
+Sonar nested evaluation: repeat 15/20
+Sonar nested evaluation: repeat 16/20
+Sonar nested evaluation: repeat 17/20
+Sonar nested evaluation: repeat 18/20
+Sonar nested evaluation: repeat 19/20
+Sonar nested evaluation: repeat 20/20
+DONE in 57.3 seconds

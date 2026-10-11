@@ -1,0 +1,28 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local report rendering previews
+/qa/
+
+# Rebuildable delivery archive; keep data/sonar.zip tracked
+/*.zip
+
+# Office and editor temporary files
+~$*
+*.tmp
+*.bak
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example

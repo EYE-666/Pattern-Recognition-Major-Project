@@ -1,0 +1,46 @@
+{
+  "usps_train_counts": [
+    1194,
+    1005,
+    731,
+    658,
+    652,
+    556,
+    664,
+    645,
+    542,
+    644
+  ],
+  "usps_test_counts": [
+    359,
+    264,
+    198,
+    166,
+    200,
+    160,
+    170,
+    147,
+    166,
+    177
+  ],
+  "usps_train_shape": [
+    7291,
+    256
+  ],
+  "usps_test_shape": [
+    2007,
+    256
+  ],
+  "sonar_shape": [
+    208,
+    60
+  ],
+  "sonar_class_counts": [
+    97,
+    111
+  ],
+  "usps_duplicate_rows": 0,
+  "sonar_duplicate_rows": 0,
+  "all_finite": true,
+  "checks": "PASS: disjoint partitions; nested subsets; metrics recomputed; bounds; duplicates"
+}

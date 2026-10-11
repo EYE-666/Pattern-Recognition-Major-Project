@@ -1,0 +1,32 @@
+{
+  "ks": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    15,
+    21
+  ],
+  "alphas": [
+    0.001,
+    0.01,
+    0.1
+  ],
+  "main_seed": 42,
+  "cv_folds": 5,
+  "sonar_repeats": 20,
+  "usps_repeats": 5,
+  "python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+  "numpy": "2.1.3",
+  "scipy": "1.15.3",
+  "sklearn": "1.6.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "protocol": "USPS official test; Sonar repeated stratified holdouts; inner CV only",
+  "data_sha256": {
+    "sonar.zip": "088b0b6813fb5ab84736bc2a1e3d6bb886e317520d2f2c04152e2ed65af7a18d",
+    "zip.test.gz": "8dacc3c6e136af6c3488de9e5113a7daf140c8c2f1f0b61c54ee02f03f1a962f",
+    "zip.train.gz": "66ebf231ab51f2cf6ac1a892d0f98ccffee1079d7a5db638c1f11f366046ca16"
+  }
+}
